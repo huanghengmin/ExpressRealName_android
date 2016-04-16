@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">快递实名登记</string>
+    <!--<string name="app_name">跨境贸易实名核验</string>-->
+    <!--<string name="app_name">移动银行</string>-->
+    <!--<string name="app_name">移动警务通</string>-->
+    <!--<string name="app_name">危化品销售实名</string>-->
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="scan_text">将运单号放入框内,即可自动扫描</string>
+</resources>
